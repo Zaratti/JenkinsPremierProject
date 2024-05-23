@@ -18,6 +18,8 @@ Year
 Population_growth(%)
 % of children under age 5 with fever
 ... (other columns)
+
+
 **Methodology**
 Data Preprocessing: Cleaning and preparing the dataset for analysis.
 Feature Engineering: Creating new features and transforming existing ones.
