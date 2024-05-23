@@ -34,8 +34,12 @@ Pandas
 NumPy
 Scikit-learn
 Flask
+
+
 **Results**
 Ridge Regression: R-squared = 0.999
 ... (other models and their performance metrics)
-Conclusion
+
+
+**Conclusion**
 The JenkinsPremierProject demonstrates the use of machine learning techniques to forecast antimalarial drug needs in Africa. Accurate predictions can help healthcare organizations and policymakers make informed decisions and allocate resources effectively.
