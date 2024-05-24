@@ -33,11 +33,11 @@ As Malaria remains a significant public health challenge, particularly affecting
 
 
 ## **Our Methodology:**
-1. Data Preprocessing: Cleaning and preparing the dataset for analysis.
-2. Feature Engineering: Creating new features and transforming existing ones.
-3. Model Selection: Choosing appropriate machine learning models for prediction.
-4. Model Training: Training the selected models on the dataset.
-5. Model Evaluation: Evaluating the models' performance using metrics such as R-squared.
+1. **Data Preprocessing:** Cleaning and preparing the dataset for analysis.
+2. **Feature Engineering:** Creating new features and transforming existing ones.
+3. **Model Selection:** Choosing appropriate machine learning models for prediction.
+4. **Model Training:** Training the selected models on the dataset.
+5. **Model Evaluation:** Evaluating the models' performance using metrics such as R-squared.
 
 
 ## **Technologies Used:**
