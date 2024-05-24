@@ -1,17 +1,20 @@
 # **JenkinsPremierProject:** 
+
 ## **Project Title:** Forecasting Antimalarial Drug Needs
+
 ---
-## **Project Overview**
+## **Project Overview:**
 
 The JenkinsPremierProject aims to forecast the demand for antimalarial drugs in Africa.
 As Malaria remains a significant public health challenge, particularly affecting children under the age of five. Accurate forecasting of drug needs is crucial for effective resource allocation and planning.
+
 ---
 ## **Objective:**
 - To accurately forecast the demand for antimalarial drugs in Africa to enhance resource allocation and timely response, ultimately reducing child mortality rates due to malaria. This will involve leveraging AI technologies to develop predictive models that consider various socio-economic, environmental, and health-related factors.
 - The goal of this project is to provide robust predictions of antimalarial drug requirements across the continent. 
 - This involves modeling complex variables that affect drug demand, such as seasonal outbreaks, population growth, and improvements in healthcare access.
 
-## **Initial Data Analysis**
+## **Initial Data Analysis:**
 **Dataset Structure:**
 
 - The dataset contains various columns related to malaria indicators, population demographics, and healthcare infrastructure.
@@ -50,5 +53,5 @@ As Malaria remains a significant public health challenge, particularly affecting
 ... (other models and their performance metrics)
 
 
-##**Conclusion:**
+## **Conclusion:**
 The JenkinsPremierProject demonstrates the use of machine learning techniques to forecast antimalarial drug needs in Africa. Accurate predictions can help healthcare organizations and policymakers make informed decisions and allocate resources effectively.
