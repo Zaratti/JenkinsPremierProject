@@ -5,7 +5,7 @@
 ---
 ## **Project Overview:**
 
-The JenkinsPremierProject aims to forecast the demand for antimalarial drugs in Africa.
+The Jenkins Premier Project aims to forecast the demand for antimalarial drugs in Africa.
 As Malaria remains a significant public health challenge, particularly affecting children under the age of five. Accurate forecasting of drug needs is crucial for effective resource allocation and planning.
 
 ---
